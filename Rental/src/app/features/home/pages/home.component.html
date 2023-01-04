@@ -1,8 +1,9 @@
-<div>
-  <ul>
+<div class="home">
+  <h2 class="home__title">Available cars:</h2>
+
+  <ul class="home__cars">
     <li *ngFor="let car of cars$ | async">
       <car-tile [car]="car"></car-tile>
-      {{ car.name }}
     </li>
   </ul>
 </div>

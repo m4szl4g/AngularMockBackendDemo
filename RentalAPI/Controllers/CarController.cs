@@ -20,26 +20,26 @@ namespace CarRental.Controllers
             {
                 new ()
                 {
-                     Name = "BMW",
-                     Type = "530d",
+                     Manufacturer = "BMW",
+                     Model = "530d",
                      Year = 2020
                 },
                 new ()
                 {
-                     Name = "Peugeot",
-                     Type = "206",
+                     Manufacturer = "Peugeot",
+                     Model = "206",
                      Year = 2018
                 },
                 new ()
                 {
-                     Name = "Volkswagen",
-                     Type = "Polo",
+                     Manufacturer = "Volkswagen",
+                     Model = "Polo",
                      Year = 2022
                 },
                 new ()
                 {
-                     Name = "Honda",
-                     Type = "Jazz",
+                     Manufacturer = "Honda",
+                     Model = "Jazz",
                      Year = 2020
                 }
             };
