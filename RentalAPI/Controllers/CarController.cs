@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace CarRental.Controllers
 {
     [ApiController]
-    [Route("[controller]/api/")]
+    [Route("api/[controller]")]
     public class CarController : ControllerBase
     {
         [HttpGet]
