@@ -1,0 +1,32 @@
+[
+    {
+        "year": 2021,
+        "manufacturer": "Honda",
+        "model": "Civic"
+    },
+    {
+        "year": 2015,
+        "manufacturer": "Fiat",
+        "model": "Punto"
+    },
+    {
+        "year": 2020,
+        "manufacturer": "Renault",
+        "model": "Megane"
+    },
+    {
+        "year": 2022,
+        "manufacturer": "Audi",
+        "model": "Q5"
+    },
+    {
+        "year": 2021,
+        "manufacturer": "BMW",
+        "model": "330i"
+    },
+    {
+        "year": 2020,
+        "manufacturer": "Honda",
+        "model": "Accord"
+    }
+]
